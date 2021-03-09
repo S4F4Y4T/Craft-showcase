@@ -59,6 +59,7 @@
 }
 
 .subnav{
+    width:150%;
     margin: .1rem .5rem;
     position: absolute;
     background: $secondary;
@@ -70,7 +71,7 @@
     transition: all .4s ease-in-out;
 
     &__list{
-        padding: 1rem 10rem 1rem 1.5rem;
+        padding: 1rem 1rem 1rem 1.5rem;
 
         &:hover{
             background: $primary;
