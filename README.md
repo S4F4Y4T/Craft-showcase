@@ -73,8 +73,8 @@ Before installing the script you need some external dependencies on your machine
    ```sh
    git clone https://github.com/S4F4Y4T/craft-showcase.git
    ```
-2. Start automatic tasks(watch,minify,autoprefix,css map,node-sass)
-  ```sh
+2. Clone the repo
+    ```sh
     npm install
    ```
 
