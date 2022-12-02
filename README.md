@@ -34,7 +34,7 @@
 
 ![Screen Shot][product-screenshot-1]
 
-This is a frontend only portfolio page for showcasing your youtube channel video
+This is a frontend only portfolio page for showcasing your youtube channel video by following advance coding standard like BEM and 7-1 pattern for Sass
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -49,6 +49,8 @@ This is a portfolio page built from the scratch using:
 * ![npm][npm]
 * ![bem][BEM]
 * ![7-1pattern][7-1pattern]
+
+Npm scripts running all automatic task like watching assests file,minifying scripts,styles and image with live preview
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -70,6 +72,10 @@ Before installing the script you need some external dependencies on your machine
 1. Clone the repo
    ```sh
    git clone https://github.com/S4F4Y4T/craft-showcase.git
+   ```
+2. Start automatic tasks(watch,minify,autoprefix,css map,node-sass)
+  ```sh
+   npm install
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
