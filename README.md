@@ -55,7 +55,7 @@ This is a portfolio page built from the scratch using:
 <!-- GETTING STARTED -->
 ## Getting Started
 
-By following the instructions you can run the script on your machine
+By following the instructions you can run the porject on your machine
 
 ### Prerequisites
 
@@ -96,15 +96,16 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[product-screenshot]: overview/1.png
+[product-screenshot-1]: overview/1.png
+[product-screenshot-2]: overview/2.png
 
 [html]: https://img.shields.io/badge/html-html-orange
 [css]: https://img.shields.io/badge/css-css-blue
 [js]: https://img.shields.io/badge/js-js-yellow
 [sass]: https://img.shields.io/badge/sass-sass-pink
-[npm]: https://img.shields.io/badge/npm-npm-white
-[bem]: https://img.shields.io/badge/BEM-BEM-white
-[7-1pattern]: https://img.shields.io/badge/7-1Pattern-7-1Pattern-white
+[npm]: https://img.shields.io/badge/npm-npm%20scripts-white
+[bem]: https://img.shields.io/badge/html-BEM-white
+[7-1pattern]: https://img.shields.io/badge/Sass-7%201pattern-white
 
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
