@@ -75,7 +75,7 @@ Before installing the script you need some external dependencies on your machine
    ```
 2. Start automatic tasks(watch,minify,autoprefix,css map,node-sass)
   ```sh
-   npm install
+    npm install
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
