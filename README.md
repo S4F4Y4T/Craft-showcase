@@ -34,7 +34,7 @@
 
 ![Screen Shot][product-screenshot-1]
 
-This is a portfolio page for showcasing your youtube channel's video
+This is a portfolio page for showcasing your youtube channel's video for my friend Nik[https://www.nikfolio.com]. The ui design is given by him as well
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
