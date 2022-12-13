@@ -73,9 +73,13 @@ Before installing the script you need some external dependencies on your machine
    ```sh
    git clone https://github.com/S4F4Y4T/craft-showcase.git
    ```
-2. Development mode for running automatic tasks
+2. Install node packages
     ```sh
     npm install
+   ```
+3. Run task runner
+    ```sh
+    npm run start
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

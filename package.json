@@ -10,14 +10,13 @@
     "terser": "terser dist/js/*.js -c -o src/js/app.js",
     "build:css": "run-s scss postcss",
     "build:js": "run-s terser",
-    "build:img": "run-s imgmin",
     "build": "run-s build:*",
     "watch:css": "onchange \"dist/scss\" -- run-s build:css",
     "watch:js": "onchange \"dist/js\" -- run-s build:js",
     "watch:img": "onchange \"dist/img\" run-s build:img",
     "server": "browser-sync start --server --files \"dist/scss/*/*.scss, dist/js/*.js, *.html, !node_modules/**/*.html\"",
     "watch": "run-p server watch:*",
-    "install": "run-s build watch"
+    "start": "run-s build watch"
   },
   "author": "",
   "license": "ISC",
