@@ -22,7 +22,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#screenshots">Screenshots</a></li>
     <li><a href="#license">License</a></li>
   </ol>
 </details>
@@ -40,7 +40,7 @@ This is a portfolio page for showcasing your youtube channel's video for my frie
 
 ### Built With
 
-This is a portfolio page built from the scratch by using advance tech and following coding standard like BEM and 7-1 pattern for Sass
+This is a portfolio page built from the scratch by using advance tech and following coding standard like BEM and 7-1 pattern for Sass.Npm scripts running all automatic task like watching assests file,minifying scripts,styles and image with live preview
 
 * ![html][html]
 * ![css][css]
@@ -49,8 +49,6 @@ This is a portfolio page built from the scratch by using advance tech and follow
 * ![npm][npm]
 * ![bem][BEM]
 * ![7-1pattern][7-1pattern]
-
-Npm scripts running all automatic task like watching assests file,minifying scripts,styles and image with live preview
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -85,16 +83,12 @@ Before installing the script you need some external dependencies on your machine
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Screenshots
 
-After installing the go to the project directory
-
-Here some screenshots:
 ![Screen Shot][product-screenshot-1]
 ![Screen Shot][product-screenshot-2]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- LICENSE -->
 ## License
